@@ -36,21 +36,21 @@ My goal is to build a strong foundation in C#, improve problem-solving skills, a
 - [x] Data Types
 - [x] User Input & Output
 - [x] Type Casting
-- [ ] Operators
-- [ ] Comments
+- [x] Operators
+- [x] Comments
 
 ### 📌 02. Conditional Statements
-- [ ] If, Else If, Else
+- [x] If, Else If, Else
 - [ ] Nested If-Else
-- [ ] Switch Statements
-- [ ] Ternary Operator
+- [x] Switch Statements
+- [x] Ternary Operator
 
 ### 📌 03. Loops
-- [ ] For Loop
-- [ ] While Loop
-- [ ] Do-While Loop
-- [ ] Foreach Loop
-- [ ] Break & Continue
+- [x] For Loop
+- [x] While Loop
+- [x] Do-While Loop
+- [x] Foreach Loop
+- [x] Break & Continue
 
 ### 📌 04. Methods
 - [ ] Method Declaration
