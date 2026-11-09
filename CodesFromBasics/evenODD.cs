@@ -2,6 +2,7 @@
 
 namespace CodesFromBasics
 {
+    //Detect even and odd
     internal class evenODD
     {
         public static void Main(string[] args)
